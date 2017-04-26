@@ -1,0 +1,8 @@
+*.pyc
+test.py
+.idea/
+toolbox.py
+ny_lotto.py
+Lotto_results/
+Temperature.py
+*.log
